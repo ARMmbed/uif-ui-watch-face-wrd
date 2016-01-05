@@ -1,6 +1,6 @@
 {
   "name": "uif-ui-watch-face-wrd",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "UIFramework watch face in the Wearable Reference Design style.",
   "keywords": [],
   "author": "Marcus Chang <marcus.chang@arm.com>",
